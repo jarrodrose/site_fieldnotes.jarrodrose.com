@@ -1,0 +1,14 @@
+# _config.yml
+
+title: JR Field Notes
+description: The random musings of an insane person 
+author:
+  name: Jarrod Rose
+
+remote_theme: "jekyll/minima"
+
+minima:
+  nav_pages:
+    - about.md
+  show_excerpts: true
+  hide_site_feed_link: true

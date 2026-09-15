@@ -16,3 +16,9 @@ minima:
     - title: GitHub - jarrodrose
       icon: github
       url: "https://github.com/jarrodrose"
+    - title: Mastodon - mastodon.social/@jarrodrose
+      icon: mastodon
+      url: "https://mastodon.social/@jarrodrose"
+    - title: Instagram - jarrodrose
+      icon: instagram
+      url: "https://www.instagram.com/jarrodrose/"

@@ -7,3 +7,5 @@
 #
 layout: home
 ---
+
+![JR Field Notes Banner](/assets/images/site-banner.jpg)

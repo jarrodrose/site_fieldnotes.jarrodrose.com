@@ -22,6 +22,6 @@ minima:
     - title: Youtube - @jarrodrose
       icon: youtube
       url: "https://www.youtube.com/@jarrodrose"
-      - title: GitHub - jarrodrose
+    - title: GitHub - jarrodrose
       icon: github
       url: "https://github.com/jarrodrose"
